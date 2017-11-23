@@ -1,0 +1,1 @@
+Please insert your The MovieDB API key in thr gradle.properties MovieApiKey

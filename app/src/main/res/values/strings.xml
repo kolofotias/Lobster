@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lobster</string>
+    <string name="action_settings">Settings</string>
+    <string name="transition_poster">transition_movie_poster</string>
+    <string name="action_popular">Most Popular</string>
+    <string name="action_rating">Highest Rated</string>
+
+
+</resources>
